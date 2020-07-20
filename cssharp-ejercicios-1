@@ -1,0 +1,11 @@
+Recuerden todo lo que se vio en los videos e intenten programar algo en C# (o pseudo-código aun que sea)
+Temas: Variables, Tipos de Datos, Imprimir por pantalla, Obtener datos por teclado. 
+Nota: Podés implementar el código en tu repl, ingresar datos para probar, sin necesidad de que sean verídicos. 
+Podés enviarnos el link de tu código en caso de que quieras que se revise
+
+1 - Solicitar por teclado la entrada de datos personales, como Nombre, apellido, edad, fecha de nacimiento. 
+Imprimir un breve texto de introducción como persona y use esos datos.
+2 - Crear variables con los valores 2020 y 4059, y calcular la diferencia, mostrandola por pantalla.
+3 - Crear una variable, la cual con su nombre indique que algo te gusta y asignarle true. Imprimir por pantalla un texto concatenando el valor de esta variable.
+4 - Pedir por teclado 2 números enteros, calcular la suma y mostrar por pantalla el resultado de la misma.
+5 - Crear un cuestionario, que imprima preguntas por pantalla, y solicite respuestas (ingresar datos por teclado).
